@@ -1,7 +1,4 @@
-body {
-  font-family: sans-serif;
-}
-video {
+.banner {
   width: 100vw;
   height: 100vh;
   object-fit: cover;
@@ -9,13 +6,4 @@ video {
   top: 0;
   left: 0;
   z-index: -1;
-}
-h1 {
-  color: #fff;
-  text-align: center;
-  margin-top: 50vh;
-}
-h1 a {
-  color: #fff;
-  font-size: 16px;
 }
